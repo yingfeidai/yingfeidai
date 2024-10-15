@@ -12,11 +12,13 @@ I'm exploring the following topics to enhance my skills and knowledge:
 - Design Patterns: Diving deeper into various design patterns and their applications in real-world projects.
 - Site Reliability Engineering (SRE): Learning best practices for building reliable systems, focusing on monitoring, incident response, and service availability.
 - Infrastructure Management: Exploring tools and strategies for managing infrastructure as code, including cloud platforms and container orchestration.
+- Event-Driven Architecture: Understanding how to design systems that respond to events, improving scalability and decoupling of components.
 
 ## 💬 Ask me about
 Feel free to ask me about:
 - Domain-Driven Design (DDD)
 - Clean Architecture
+- Event-Driven Architecture
 
 <!--
 **yingfeidai/yingfeidai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
