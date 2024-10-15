@@ -5,6 +5,9 @@ I'm a backend developer with a strong focus on building efficient, scalable, and
 ## 🔭 I’m currently working on
 I'm currently working on learning how to build scalable and stable system architectures, focusing on best practices and effective design patterns. You can check out my **Design Insights** project [here](https://github.com/yingfeidai/design-insights).
 
+### Featured Articles (WIP)
+- [Challenge of Building a Scalable System with Modular Layered Architecture](https://github.com/yingfeidai/design-insights/blob/main/scalable-modular-architecture/README.md)
+
 ## 🌱 I’m currently learning
 I'm exploring the following topics to enhance my skills and knowledge:
 
